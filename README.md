@@ -1,11 +1,23 @@
 ![Header](./github-header-image.png)
-- 💻 I’m currently working on some projects
-- 🎓 I’m currently learning JavaScript/TypeScript
-- 📱  How to reach me: Telegram
-- 😅 Fun fact: I studied Haskell 
+- 💻 I’m currently working as a Trainee Frontend Developer
+- 🎓 I’m currently learning TypeScript/Angular/RxJS
+- 📱 How to reach me: Telegram
+- 😅 Fun fact: I studied Haskell in university 
 
-<p align="center">
-  <img src="html.svg" alt="html5 icon" style="vertical-align:top margin:6px 4px">
-  <img src="css3.svg" alt="css3 icon" style="vertical-align:top margin:6px 4px">
-  <img src="js.svg" alt="js icon" style="vertical-align:top margin:6px 4px">
-</p>
+<div align="center">
+  <p>Technologies Studied</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64px" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="64px" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64px" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="64px" height="64px"/>
+</div>
+<br>
+<div align="center">
+  <p>In Progress...</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64px" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="64px" height="64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="64px" height="64px"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64px" height="64px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="64px" height="64px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="64px" height="64px"/>
+</div>
